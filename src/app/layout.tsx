@@ -26,7 +26,7 @@ const inter = Inter({
 // });
 
 export const metadata: Metadata = {
-  title: "Docs",
+  title: "Docs Collaboration & Documentation",
   description: "This is Docs application for collaboration and documentation",
 };
 
